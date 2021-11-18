@@ -1,6 +1,6 @@
 import { AfterViewInit, Component, ElementRef, ViewChild } from '@angular/core'
 import { GraphComponent, GraphEditorInputMode, IGraph, License, Point, Rect } from 'yfiles'
-import licenseData from '../../license.json'
+import licenseData from '../../../license.json';
 
 License.value = licenseData
 
