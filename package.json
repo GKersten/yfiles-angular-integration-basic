@@ -39,6 +39,6 @@
     "karma-jasmine": "~4.0.1",
     "karma-jasmine-html-reporter": "^1.6.0",
     "typescript": "~4.4.4",
-    "@yworks/optimizer": "^1.4.3"
+    "@yworks/optimizer": "^1.6.1"
   }
 }
