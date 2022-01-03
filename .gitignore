@@ -46,3 +46,6 @@ license.json
 .DS_Store
 Thumbs.db
 yFiles-for-HTML-Complete-2.4.0.4-Evaluation
+
+# Visual Studio
+/.vs

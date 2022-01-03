@@ -6,7 +6,7 @@
     "preinstall": "cd yFiles-for-HTML-Complete-2.4.0.4-Evaluation && npm run prepare-package",
     "ng": "ng",
     "start": "ng serve",
-    "build": "node --max_old_space_size=6000 node_modules/@angular/cli/bin/ng build",
+    "build": "node --max_old_space_size=6000 node_modules/@angular/cli/bin/ng build --source-map",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
